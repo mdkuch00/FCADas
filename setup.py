@@ -5,7 +5,7 @@ setup(
     version='0.1',
     description='TODO',
     long_description='TODO',
-    author='Michał Kucharek, Bartłomiej Więcek',
+    author='`Michał Kucharek, Bartłomiej Więcek',
     author_email='md.kucharek@gmail.com',
     url='https://github.com/mdkuch00/FCADas.git',
     packages=find_packages(),
