@@ -1,4 +1,4 @@
-># :fire: Fire CAD AssistantYT-1300 light freighter utility 
+># :fire: Fire CAD Assistant utility 
 >
 >This utility support documentation creation process of embedded fire alarm system by:<br>
 >1. creating block schemas,
